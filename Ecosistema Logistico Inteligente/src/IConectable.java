@@ -1,0 +1,3 @@
+interface IConectable {
+    void sincronizarGPS();
+}
